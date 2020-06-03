@@ -17,6 +17,7 @@ public class ExampleWednesday {
       System.out.println("Third");
         System.out.println("hey");
         System.out.println("Dude");
+        System.out.println("LEARNING fetch operation");
     }
 
 }
