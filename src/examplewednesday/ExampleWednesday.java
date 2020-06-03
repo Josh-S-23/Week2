@@ -4,7 +4,7 @@ package examplewednesday;
 
 /**
  *
- * @author lil_b
+ * @author josh
  */
 public class ExampleWednesday {
 
