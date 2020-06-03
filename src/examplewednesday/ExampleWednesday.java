@@ -16,6 +16,7 @@ public class ExampleWednesday {
       System.out.println("Second");
       System.out.println("Third");
         System.out.println("hey");
+        System.out.println("Dude");
     }
 
 }
