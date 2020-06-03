@@ -15,6 +15,7 @@ public class ExampleWednesday {
       System.out.println("Learning Push");
       System.out.println("Second");
       System.out.println("Third");
+        System.out.println("hey");
     }
 
 }
